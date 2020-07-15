@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Pratham31/Pratham31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+**Pratham31/Pratham31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -9,6 +9,8 @@
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
+![final](https://user-images.githubusercontent.com/56548231/87557362-731f8280-c6d5-11ea-8e75-15b63445009e.gif)
 
 Here are some ideas to get you started:
 
@@ -21,4 +23,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![final](https://user-images.githubusercontent.com/56548231/87557362-731f8280-c6d5-11ea-8e75-15b63445009e.gif)
