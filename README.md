@@ -21,10 +21,8 @@ I am Open Source Contributor, AR/VR Dev, Amazon Alexa Dev and Full stack Develop
   - Learning Physics and getting knowledge about Space, Cosmos and Astronomy is My Night Job. 🌌 ☄️ 🔭
   
   - Always Willing to help **Altruistic**.✋ 
-  <h1 style="color:blue;text-align:center;">This is a heading</h1>
-
-  <h3 style="color:blue;text-align:right;">My GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratham31&show_icons=true" align="right"></img>
+  <h3>My GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratham31&show_icons=true" align="left"></img>
 
 
  
