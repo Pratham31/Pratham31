@@ -19,6 +19,8 @@ I am Open Source Contributor, AR/VR Dev, Amazon Alexa Dev and Full stack Develop
   - Just loved to Explore new Tech Stacks.
   
   - Learning Physics and getting knowledge about Space, Cosmos and Astronomy is My Night Job. 🌌 ☄️ 🔭
+  
+  - Always Willing to help **Altruistic**.
 
   ![My github stats](https://github-readme-stats.vercel.app/api?username=Pratham31&show_icons=true)
 
