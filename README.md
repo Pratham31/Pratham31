@@ -21,7 +21,7 @@ I am Open Source Contributor, AR/VR Dev, Amazon Alexa Dev and Full stack Develop
   
   - Learning Physics and getting knowledge about Space, Cosmos and Astronomy is My Night Job. 🌌 ☄️ 🔭
   
-  - Always Willing to help **Altruistic**.✋ 
+  - Always Willing to help (**Altruistic**).✋ 
 </br>
   
 ### My GitHub Stats -
@@ -44,7 +44,10 @@ I am Open Source Contributor, AR/VR Dev, Amazon Alexa Dev and Full stack Develop
 <a href="https://prathamtalks.blogspot.com/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
 </a>
-<a href="https://prathamtalks.blogspot.com/">
+<a href="https://medium.com/@Oautodidactic">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+<a href="https://medium.com/@Oautodidactic">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
