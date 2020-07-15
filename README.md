@@ -2,7 +2,7 @@
 
 
 ![final](https://user-images.githubusercontent.com/56548231/87557362-731f8280-c6d5-11ea-8e75-15b63445009e.gif)
-
+<img src="final.gif" height="250" width="400"></img>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
