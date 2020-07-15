@@ -1,4 +1,4 @@
-## Hello Traveller 🚶
+<h2>Hello Traveller...</h2>🚶
 
 
 <img src="https://github.com/Pratham31/Pratham31/blob/master/final.gif" height="460" width="400" align="right"></img>
