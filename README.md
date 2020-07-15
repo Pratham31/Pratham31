@@ -5,16 +5,13 @@
 <img src="https://github.com/Pratham31/Pratham31/blob/master/final.gif" height="450" width="400" align="right"></img>
 
 
-### Hey, It's Prathamesh Giri here
+### It's Prathamesh Giri here
 I am Open Source Contributor, AR/VR Dev, Amazon Alexa Dev and Full stack Developer. I love experimenting with new technologies and building small projects.
 
 - ☀️ Learning and Developing Machine Learning based projects in Python.
 - ✍️ Writing tech blog posts over Internet.
 
-<details>
-  <summary>Some interesting facts about me!</summary>
-  <br>
-  
+### Things that I execute in free time :+1:  
   - In mean time, I create visual and artistic UI/UX on Adobe Xd.
   
   - While Coding, Listening Music and developing useful code. ⭐️
@@ -24,6 +21,6 @@ I am Open Source Contributor, AR/VR Dev, Amazon Alexa Dev and Full stack Develop
   - Learning Physics and getting knowledge about Space, Cosmos and Astronomy is My Night Job. 🌌 ☄️ 🔭
 
   ![My github stats](https://github-readme-stats.vercel.app/api?username=Pratham31&show_icons=true)
-</details>
+
  
 -->
