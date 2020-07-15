@@ -1,5 +1,5 @@
 ## Hello Traveller 🚶
-</br>
+
 
 <img src="https://github.com/Pratham31/Pratham31/blob/master/final.gif" height="460" width="400" align="right"></img>
 
@@ -43,6 +43,9 @@ I am Open Source Contributor, AR/VR Dev, Amazon Alexa Dev and Full stack Develop
 </a>
 <a href="https://prathamtalks.blogspot.com/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
+</a>
+<a href="https://prathamtalks.blogspot.com/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
 
