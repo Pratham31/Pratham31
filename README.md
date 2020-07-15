@@ -10,7 +10,6 @@ I am Open Source Contributor, AR/VR Dev, Amazon Alexa Dev and Full stack Develop
 - ☀️ Learning and Developing Machine Learning based projects in Python.
 - ✍️ Writing tech blog posts over Internet.
 - ➿ Contributing Open Source Projects.
-</br>
 
 ## Things that I execute in free time ⚡ -  
   - In mean time, I create visual and artistic UI/UX on Adobe Xd.🌱
