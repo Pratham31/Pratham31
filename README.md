@@ -2,7 +2,7 @@
 
 
 
-<img src="https://github.com/Pratham31/Pratham31/blob/master/final.gif" height="250" width="400" align="right"></img>
+<img src="https://github.com/Pratham31/Pratham31/blob/master/final.gif" height="450" width="400" align="right"></img>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
