@@ -12,16 +12,17 @@ I am Open Source Contributor, AR/VR Dev, Amazon Alexa Dev and Full stack Develop
 - ✍️ Writing tech blog posts over Internet.
 
 ### Things that I execute in free time ⚡ -  
-  - In mean time, I create visual and artistic UI/UX on Adobe Xd.
+  - In mean time, I create visual and artistic UI/UX on Adobe Xd.🌱
   
-  - While Coding, Listening Music and developing useful code. ⭐️
+  - While Coding, Listening Music and developing useful code.⭐️
   
-  - Just loved to Explore new Tech Stacks.
+  - Just loved to Explore new Tech Stacks.💻
   
   - Learning Physics and getting knowledge about Space, Cosmos and Astronomy is My Night Job. 🌌 ☄️ 🔭
   
-  - Always Willing to help **Altruistic**.
+  - Always Willing to help **Altruistic**.✋ 
 
+### My GitHub Stats 
  ![My github stats](https://github-readme-stats.vercel.app/api?username=Pratham31&show_icons=true)
 
  
