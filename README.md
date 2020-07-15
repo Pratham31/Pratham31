@@ -23,7 +23,11 @@ I am Open Source Contributor, AR/VR Dev, Amazon Alexa Dev and Full stack Develop
   - Always Willing to help **Altruistic**.
 
  
+ <style>
+  display: flex;
+  justify-content: right;
+  align-items: right;
  ![My github stats](https://github-readme-stats.vercel.app/api?username=Pratham31&show_icons=true)
-
+</style>
  
 
