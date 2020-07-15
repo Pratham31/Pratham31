@@ -1,7 +1,7 @@
 <h2>Hello Traveller...🚶</h2>
 
 
-<img src="https://github.com/Pratham31/Pratham31/blob/master/final.gif" height="450" width="400" align="right"></img>
+<img src="https://github.com/Pratham31/Pratham31/blob/master/final.gif" height="430" width="400" align="right"></img>
 
 
 ## It's Prathamesh Giri here 👋
@@ -17,7 +17,7 @@ I am Open Source Contributor, AR/VR Dev, Amazon Alexa Dev and Full stack Develop
   - Just loved to Explore new Tech Stacks.💻
   - Learning Physics and getting knowledge about Space, Cosmos and Astronomy is My Night Job. 🌌 ☄️ 🔭
   - Always Willing to help (**Altruistic**).✋ 
-</br>
+
 
 ## My GitHub Stats -
   
