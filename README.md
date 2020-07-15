@@ -40,6 +40,9 @@ I am Open Source Contributor, AR/VR Dev, Amazon Alexa Dev and Full stack Develop
 <a href="https://www.linkedin.com/in/autodidactic/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
 </a>
+<a href="https://www.linkedin.com/in/autodidactic/">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mozilla.svg" />
+</a>
 
 
 
