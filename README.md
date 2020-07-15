@@ -30,7 +30,7 @@ I am Open Source Contributor, AR/VR Dev, Amazon Alexa Dev and Full stack Develop
 </br>
 
 ### My Portfolio and Work -
-1.[Personal Web](http://prathameshgiri.me/)👦
+1.[Personal Web](http://prathameshgiri.me/)👦 </br>
 2.[Portfolio](https://sites.google.com/view/prathamesh-giri/home)✨
 
 ### Social Hangouts -
