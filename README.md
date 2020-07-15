@@ -1,7 +1,7 @@
 <h2>Hello Traveller...🚶</h2>
 
 
-<img src="https://github.com/Pratham31/Pratham31/blob/master/final.gif" height="480" width="400" align="right"></img>
+<img src="https://github.com/Pratham31/Pratham31/blob/master/final.gif" height="500" width="400" align="right"></img>
 
 
 ## It's Prathamesh Giri here 👋
