@@ -11,7 +11,7 @@ I am Open Source Contributor, AR/VR Dev, Amazon Alexa Dev and Full stack Develop
 - ☀️ Learning and Developing Machine Learning based projects in Python.
 - ✍️ Writing tech blog posts over Internet.
 
-### Things that I execute in free time :+1:  
+### Things that I execute in free time ⚡ -  
   - In mean time, I create visual and artistic UI/UX on Adobe Xd.
   
   - While Coding, Listening Music and developing useful code. ⭐️
@@ -22,12 +22,8 @@ I am Open Source Contributor, AR/VR Dev, Amazon Alexa Dev and Full stack Develop
   
   - Always Willing to help **Altruistic**.
 
- 
- <style>
-  display: flex;
-  justify-content: right;
-  align-items: right;
+ <br>
  ![My github stats](https://github-readme-stats.vercel.app/api?username=Pratham31&show_icons=true)
-</style>
+
  
 
