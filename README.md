@@ -2,7 +2,7 @@
 
 
 
-<img src="https://github.com/Pratham31/Pratham31/blob/master/final.gif" height="450" width="400" align="right"></img>
+<img src="https://github.com/Pratham31/Pratham31/blob/master/final.gif" height="430" width="400" align="right"></img>
 
 
 ### It's Prathamesh Giri here 👋
@@ -21,7 +21,9 @@ I am Open Source Contributor, AR/VR Dev, Amazon Alexa Dev and Full stack Develop
   - Learning Physics and getting knowledge about Space, Cosmos and Astronomy is My Night Job. 🌌 ☄️ 🔭
   
   - Always Willing to help **Altruistic**.✋ 
-  <h3>My GitHub Stats</h3>
+  
+  ### My GitHub Stats -
+  
   <img src="https://github-readme-stats.vercel.app/api?username=Pratham31&show_icons=true" align="left"></img>
 
 
