@@ -22,11 +22,8 @@ I am Open Source Contributor, AR/VR Dev, Amazon Alexa Dev and Full stack Develop
   
   - Always Willing to help **Altruistic**.✋ 
 
-<style type="text/css">
-  margin-top="200px"
   <h3 style="color:blue;text-align:right;">My GitHub Stats</h3>
-</style>  
-<img src="https://github-readme-stats.vercel.app/api?username=Pratham31&show_icons=true" align="right"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratham31&show_icons=true" align="right"></img>
 
 
  
