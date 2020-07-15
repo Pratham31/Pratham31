@@ -23,7 +23,7 @@ I am Open Source Contributor, AR/VR Dev, Amazon Alexa Dev and Full stack Develop
   - Always Willing to help **Altruistic**.✋ 
 
 ### My GitHub Stats 
- ![My github stats](https://github-readme-stats.vercel.app/api?username=Pratham31&show_icons=true)
+                                                      ![My github stats](https://github-readme-stats.vercel.app/api?username=Pratham31&show_icons=true)
 
  
 
