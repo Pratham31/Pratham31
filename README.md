@@ -13,13 +13,9 @@ I am Open Source Contributor, AR/VR Dev, Amazon Alexa Dev and Full stack Develop
 
 ## Things that I execute in free time ⚡ -  
   - In mean time, I create visual and artistic UI/UX on Adobe Xd.🌱
-  
   - While Coding, Listening Music and developing useful code.⭐️
-  
   - Just loved to Explore new Tech Stacks.💻
-  
   - Learning Physics and getting knowledge about Space, Cosmos and Astronomy is My Night Job. 🌌 ☄️ 🔭
-  
   - Always Willing to help (**Altruistic**).✋ 
 </br>
 
