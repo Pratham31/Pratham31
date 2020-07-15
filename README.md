@@ -1,6 +1,5 @@
 ## Hello Traveller 👋
-
-
+</br>
 
 <img src="https://github.com/Pratham31/Pratham31/blob/master/final.gif" height="430" width="400" align="right"></img>
 
@@ -10,6 +9,7 @@ I am Open Source Contributor, AR/VR Dev, Amazon Alexa Dev and Full stack Develop
 
 - ☀️ Learning and Developing Machine Learning based projects in Python.
 - ✍️ Writing tech blog posts over Internet.
+- ➿ Contributing Open Source Projects.
 </br>
 
 ### Things that I execute in free time ⚡ -  
