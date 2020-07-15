@@ -5,7 +5,7 @@
 <img src="https://github.com/Pratham31/Pratham31/blob/master/final.gif" height="450" width="400" align="right"></img>
 
 
-### It's Prathamesh Giri here
+### It's Prathamesh Giri here 👋
 I am Open Source Contributor, AR/VR Dev, Amazon Alexa Dev and Full stack Developer. I love experimenting with new technologies and building small projects.
 
 - ☀️ Learning and Developing Machine Learning based projects in Python.
@@ -22,7 +22,8 @@ I am Open Source Contributor, AR/VR Dev, Amazon Alexa Dev and Full stack Develop
   
   - Always Willing to help **Altruistic**.
 
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=Pratham31&show_icons=true)
+ 
+ ![My github stats](https://github-readme-stats.vercel.app/api?username=Pratham31&show_icons=true)
 
  
--->
+
