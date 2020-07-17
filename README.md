@@ -12,10 +12,10 @@ I am Open Source Contributor, AR/VR/XR Dev, Amazon Alexa Dev and Full stack Deve
 - ➿ Contributing Open Source Projects.
 
 ## Things that I execute in free time ⚡ -  
-  - In mean time, I create visual and artistic UI/UX on Adobe Xd.<img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/Designer.gif" width="20vw">>
-  - While Coding, Listening Music and developing useful code.<img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/headbang.gif" width="20vw">>
-  - Just loved to Explore new Tech Stacks.<img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/Developer.gif" width="20vw">>
-  - Learning Physics and getting knowledge about Space, Cosmos and Astronomy is My Night Job. <img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/Rocket.gif" width="20vw">>
+  - In mean time, I create visual and artistic UI/UX on Adobe Xd.<img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/Designer.gif" width="20vw">
+  - While Coding, Listening Music and developing useful code.<img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/headbang.gif" width="20vw">
+  - Just loved to Explore new Tech Stacks.<img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/Developer.gif" width="20vw">
+  - Learning Physics and getting knowledge about Space, Cosmos and Astronomy is My Night Job. <img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/Rocket.gif" width="20vw">
   - Always Willing to help (**Altruistic**).<img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/wave.gif" width="20vw">  
 
 
