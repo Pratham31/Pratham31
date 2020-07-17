@@ -12,10 +12,10 @@ I am Open Source Contributor, AR/VR/XR Dev, Amazon Alexa Dev and Full stack Deve
 - ➿ Contributing Open Source Projects.
 
 ## Things that I execute in free time ⚡ -  
-  - In mean time, I create visual and artistic UI/UX on Adobe Xd.🌱
-  - While Coding, Listening Music and developing useful code.⭐️
-  - Just loved to Explore new Tech Stacks.<img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/Developer.gif" width="24px">
-  - Learning Physics and getting knowledge about Space, Cosmos and Astronomy is My Night Job. 🌌 ☄️ 🔭
+  - In mean time, I create visual and artistic UI/UX on Adobe Xd.<img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/Designer.gif" width="30px">
+  - While Coding, Listening Music and developing useful code.<img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/headbang.gif" width="30px">
+  - Just loved to Explore new Tech Stacks.<img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/Developer.gif" width="30px">
+  - Learning Physics and getting knowledge about Space, Cosmos and Astronomy is My Night Job. <img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/Rocket.gif" width="30px">
   - Always Willing to help (**Altruistic**). ✋ 
 
 
