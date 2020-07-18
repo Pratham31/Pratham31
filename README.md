@@ -11,7 +11,7 @@ I am Open Source Contributor, AR/VR/XR Dev, Amazon Alexa Dev and Full stack Deve
 - ✍️ Writing tech blog posts over Internet.
 - ➿ Contributing Open Source Projects.
 
-## Things that I execute in free time <img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/zap.gif" height="29px"> -  
+## Things that I execute in free time <img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/zap.gif" height="20px"> -  
   - In mean time, I create visual and artistic UI/UX on Adobe Xd.&nbsp;<img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/Designer.gif" height="20vw">
   - While Coding, Listening Music and developing useful code.&nbsp;<img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/headbang.gif" height="25vw">
   - Just loved to Explore new Tech Stacks.<img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/Developer.gif" height="20vw">
