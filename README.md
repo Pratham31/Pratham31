@@ -50,4 +50,3 @@ I am Open Source Contributor, AR/VR/XR Dev, Amazon Alexa Dev and Full stack Deve
 </br>
 
 ### Made with ❤️ by [Pratham31](https://github.com/Pratham31)<img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/Medal.gif" width="20px">
- <div class="tenor-gif-embed" data-postid="10055847" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/eye-gif-10055847">Eye Looking Around GIF</a> from <a href="https://tenor.com/search/eye-gifs">Eye GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
