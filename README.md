@@ -11,7 +11,7 @@ I am Open Source Contributor, AR/VR/XR Dev, Amazon Alexa Dev and Full stack Deve
 - ✍️ Writing tech blog posts over Internet.
 - ➿ Contributing Open Source Projects.
 
-## Things that I execute in free time ⚡ -  
+## Things that I execute in free time <img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/zap.gif" width="29px"> -  
   - In mean time, I create visual and artistic UI/UX on Adobe Xd.&nbsp;<img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/Designer.gif" height="20vw">
   - While Coding, Listening Music and developing useful code.&nbsp;<img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/headbang.gif" height="25vw">
   - Just loved to Explore new Tech Stacks.<img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/Developer.gif" height="20vw">
@@ -19,12 +19,12 @@ I am Open Source Contributor, AR/VR/XR Dev, Amazon Alexa Dev and Full stack Deve
   - Always Willing to help (**Altruistic**).<img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/wave.gif" height="20vw">  
 
 
-## My GitHub Stats(Only Public Contributions 😑) -
+## My GitHub Stats(Only Public Contributions <img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/expressionless.gif" width="29px">) -
   
   ![Github Stats By Prathamesh](https://github-readme-stats.vercel.app/api?username=Pratham31&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)  
 </br>
 
-## My Portfolio and Work 👀 -
+## My Portfolio and Work <img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/eyes.gif" width="29px"> -
 ### 1.[Personal Web](http://prathameshgiri.me/) 👦 </br>
 ### 2.[Portfolio](https://sites.google.com/view/prathamesh-giri/home) ✨
 </br>
