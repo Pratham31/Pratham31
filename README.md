@@ -27,7 +27,7 @@ I am Open Source Contributor, AR/VR/XR Dev, Amazon Alexa Dev and Full stack Deve
 ## My Portfolio and Work <img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/eyes.gif" width="29px"> -
 ### 1.[Personal Web](http://prathameshgiri.me/) 👦 </br>
 ### 2.[Portfolio](https://sites.google.com/view/prathamesh-giri/home) ✨
-### 3.[Blog](https://prathamtalks.blogspot.com/) 
+### 3.[Blog](https://prathamtalks.blogspot.com/) 💭
 </br>
 
 ## Social Hangouts <img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/Handshake.gif" height="35px">-
