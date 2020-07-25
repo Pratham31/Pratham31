@@ -21,7 +21,7 @@ I am Open Source Contributor, AR/VR/XR Dev, Amazon Alexa Dev and Full stack Deve
 
 ## My GitHub Stats(Only Public Contributions <img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/expressionless.gif" width="23px">) -
   <p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Pratham31&show_icons=true&theme=radical&line_height=38" >
+  <img src = "https://github-readme-stats.vercel.app/api?username=Pratham31&show_icons=true&theme=radical&line_height=39" >
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham31&hide=CSS,HTML&theme=tokyonight">
 </p>  
 
