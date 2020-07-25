@@ -50,4 +50,4 @@ I am Open Source Contributor, AR/VR/XR Dev, Amazon Alexa Dev and Full stack Deve
 </br>
 </br>
 
-### Made with ❤️ by [Pratham31](https://github.com/Pratham31)<img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/Medal.gif" width="20px">
+### <img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/check.gif" height="20px">Made with ❤️ by [Pratham31](https://github.com/Pratham31)<img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/Medal.gif" width="20px">
