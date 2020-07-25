@@ -24,7 +24,6 @@ I am Open Source Contributor, AR/VR/XR Dev, Amazon Alexa Dev and Full stack Deve
   <img src = "https://github-readme-stats.vercel.app/api?username=Pratham31&show_icons=true&theme=radical&line_height=38" width="520vw">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham31&hide=CSS,HTML&theme=tokyonight">
 </p>  
-</br>
 
 ## My Portfolio and Work <img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/eyes.gif" width="29px"> -
 ### 1.[Personal Web](http://prathameshgiri.me/) 👦 </br>
