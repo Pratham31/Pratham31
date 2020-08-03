@@ -25,16 +25,6 @@ I am Open Source Contributor, AR/VR/XR Dev, Amazon Alexa Dev and Full stack Deve
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham31&hide=CSS,HTML&theme=tokyonight">
 </p>  
 
-📊 **This week I spent my time on**
-<!--START_SECTION:waka-->
-```text
-TypeScript   4 hrs 22 mins   ██████████████░░░░░░░░░░░   57.71 % 
-Other        1 hr 5 mins     ███░░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-JavaScript   54 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-JSON         39 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-CSS          13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
-```
-<!--END_SECTION:waka-->
 
 ## My Portfolio and Work <img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/eyes.gif" width="29px"> -
 ### 1.[Personal Web](http://prathameshgiri.me/) 👦 </br>
