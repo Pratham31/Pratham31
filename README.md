@@ -45,7 +45,7 @@ I am Open Source Contributor, AR/VR/XR Dev, Amazon Alexa Dev and Full stack Deve
 <a href="https://medium.com/@Oautodidactic">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
-<a href="https://stackoverflow.com/users/story/13827345">
+<a href="https://stackoverflow.com/users/13827345/prathamesh-giri?tab=profile">
   <img align="left" alt="StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackoverflow.svg" />
 </a>
 </br>
