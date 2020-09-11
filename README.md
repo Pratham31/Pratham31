@@ -19,11 +19,12 @@ I am Open Source Contributor, AR/VR/XR Dev, Amazon Alexa Dev and Full stack Deve
   - Always Willing to help (**Altruistic**).<img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/wave.gif" height="20vw">  
 
 
-## My GitHub Stats(Only Public Contributions <img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/expressionless.gif" width="23px">) -
-  <p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Pratham31&show_icons=true&theme=radical&line_height=40" >
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham31&hide=CSS,HTML&theme=tokyonight" width:"1500">
-</p>  
+## My GitHub Stats(Only Public Contributions <a href="https://github.com/remcohalman">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=remcohalman&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
+</a>
+<a href="https://github.com/remcohalman/github-readme-stats">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=remcohalman&layout=compact&theme=blue-green" />
+</a>
 
 
 ## My Portfolio and Work <img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/eyes.gif" width="29px"> -
