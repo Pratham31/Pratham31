@@ -19,11 +19,11 @@ I am Open Source Contributor, AR/VR/XR Dev, Amazon Alexa Dev and Full stack Deve
   - Always Willing to help (**Altruistic**).<img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/wave.gif" height="20vw">  
 
 
-## My GitHub Stats(Only Public Contributions <a href="https://github.com/remcohalman">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=remcohalman&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
+## My GitHub Stats(Only Public Contributions <a href="https://github.com/Pratham31">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pratham31&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
 </a>
-<a href="https://github.com/remcohalman/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=remcohalman&layout=compact&theme=blue-green" />
+<a href="https://github.com/Pratham31/github-readme-stats">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Pratham31&layout=compact&theme=blue-green" />
 </a>
 
 
