@@ -20,10 +20,10 @@ I am Open Source Contributor, AR/VR/XR Dev, Amazon Alexa Dev and Full stack Deve
 
 
 ## My GitHub Stats( <img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/expressionless.gif" width="23px"> ) - <a href="https://github.com/Pratham31">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pratham31&show_icons=true&include_all_commits=true&theme=blue-gold&count_private=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pratham31&show_icons=true&include_all_commits=true&theme=blue-yellow&count_private=true">
 </a>
 <a href="https://github.com/Pratham31/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Pratham31&layout=compact&theme=blue-gold" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Pratham31&layout=compact&theme=blue-yellow" />
 </a>
 
 
