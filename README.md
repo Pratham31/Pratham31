@@ -38,7 +38,7 @@ I am Open Source Contributor, AR/VR/XR Dev, Amazon Alexa Dev and Full stack Deve
   <img align="left" alt="Prathamesh Giri| Twitter" width="38px" src="https://github.com/Pratham31/Pratham31/blob/master/tww.png" />
 </a>
 <a href="https://www.linkedin.com/in/autodidactic/">
-  <img align="left" alt="Linkedin" width="60px" src="https://github.com/Pratham31/Pratham31/blob/master/lin.png" />
+  <img align="left" alt="Linkedin" width="60px" src="https://github.com/Pratham31/Pratham31/blob/master/linkedinn.png" />
 </a>
 <a href="https://prathamtalks.blogspot.com/">
   <img align="left" alt="Linkedin" width="37px" src="https://github.com/Pratham31/Pratham31/blob/master/blog.png" />
