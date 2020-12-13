@@ -35,19 +35,19 @@ I am Open Source Contributor, AR/VR/XR Dev, Amazon Alexa Dev and Full stack Deve
 ## Social Hangouts <img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/Handshake.gif" height="35px">-
 
 <a href="https://twitter.com/_Autodidactic">
-  <img align="left" alt="Prathamesh Giri| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" color="blue" />
+  <img align="left" alt="Prathamesh Giri| Twitter" width="22px" src="https://github.com/Pratham31/Pratham31/blob/master/tww.png" />
 </a>
 <a href="https://www.linkedin.com/in/autodidactic/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Linkedin" width="22px" src="https://github.com/Pratham31/Pratham31/blob/master/lin.png" />
 </a>
 <a href="https://prathamtalks.blogspot.com/">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
+  <img align="left" alt="Linkedin" width="22px" src="https://github.com/Pratham31/Pratham31/blob/master/blog.png" />
 </a>
 <a href="https://medium.com/@Oautodidactic">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+  <img align="left" alt="Linkedin" width="22px" src="https://github.com/Pratham31/Pratham31/blob/master/medd.png" />
 </a>
 <a href="https://stackoverflow.com/users/13827345/prathamesh-giri?tab=profile">
-  <img align="left" alt="StackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/stackoverflow.svg" />
+  <img align="left" alt="StackOverflow" width="22px" src="https://github.com/Pratham31/Pratham31/blob/master/sta.png" />
 </a>
 </br>
 </br>
