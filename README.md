@@ -35,7 +35,7 @@ I am Open Source Contributor, AR/VR/XR Dev, Amazon Alexa Dev and Full stack Deve
 ## Social Hangouts <img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/Handshake.gif" height="35px">-
 
 <a href="https://twitter.com/_Autodidactic">
-  <img align="left" alt="Prathamesh Giri| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Prathamesh Giri| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" color="blue" />
 </a>
 <a href="https://www.linkedin.com/in/autodidactic/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
