@@ -15,11 +15,11 @@ I am Open Source Contributor, AR/VR/XR Dev, Amazon Alexa Dev and Full stack Deve
   - In mean time, I create visual and artistic UI/UX.&nbsp;<img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/Designer.gif" height="20vw">
   - While Coding, Listening Music and developing useful code.&nbsp;<img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/headbang.gif" height="25vw">
   - Just loved to Explore new Tech Stacks.<img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/Developer.gif" height="20vw">
-  - Learning Physics and getting knowledge about Space, Cosmos and Astronomy is My Night Job. <img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/Rocket.gif" width="20vw">
+  - Learning Physics and getting knowledge about Space, Cosmos and Astronomy is My Night Job. 
   - Always Willing to help (**Altruistic**).<img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/wave.gif" height="20vw">  
 
 
-## My GitHub Stats( <img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/expressionless.gif" width="23px"> ) - <a href="https://github.com/Pratham31">
+## My GitHub Stats - <a href="https://github.com/Pratham31">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pratham31&show_icons=true&include_all_commits=true&theme=radical&count_private=true">
 </a>
 <a href="https://github.com/Pratham31/github-readme-stats">
