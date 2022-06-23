@@ -4,7 +4,7 @@
  <img src="https://github.com/Pratham31/Pratham31/blob/master/final.gif" height="465" width="400" align="right"></img>
 
 
-## It's Prathamesh Giri here <img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/Hi.gif" width="29px">
+## It's Prathamesh Giri here>
 I am Open Source Contributor, AR/VR/XR Dev, Amazon Alexa Dev and Full stack Developer. I love experimenting with new technologies and building small projects.
 
 - ☀️Learning and Developing Machine Learning based projects in Python.<br>
