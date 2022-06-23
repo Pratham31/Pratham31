@@ -4,7 +4,7 @@
  <img src="https://github.com/Pratham31/Pratham31/blob/master/final.gif" height="465" width="400" align="right"></img>
 
 
-## It's Prathamesh Giri here>
+## It's Prathamesh Giri here
 I am Open Source Contributor, AR/VR/XR Dev, Amazon Alexa Dev and Full stack Developer. I love experimenting with new technologies and building small projects.
 
 - ☀️Learning and Developing Machine Learning based projects in Python.<br>
@@ -27,7 +27,7 @@ I am Open Source Contributor, AR/VR/XR Dev, Amazon Alexa Dev and Full stack Deve
 </a>
 
 
-## My Portfolio and Work <img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/eyes.gif" width="29px"> -
+## My Portfolio and Work -
 ### 1. [Personal Web](http://prathameshgiri.me/) 👦 </br>
 ### 2. [Portfolio](https://sites.google.com/view/prathamesh-giri/home) ✨
 ### 3. [Blog](https://prathamtalks.blogspot.com/) 💭
@@ -52,4 +52,4 @@ I am Open Source Contributor, AR/VR/XR Dev, Amazon Alexa Dev and Full stack Deve
 </br>
 </br>
 
-### Made with ❤️ by [Pratham31](https://github.com/Pratham31)<img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/Medal.gif" width="20px">
+### Made with ❤️ by [Pratham31](https://github.com/Pratham31)
