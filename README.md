@@ -1,5 +1,6 @@
-<h2>Hello Traveller...🚶</h2>
-<h2>Myself... </h2>
+<h2>Hello Traveller...🚶, myself...
+</h2>
+
 
 
  <img src="https://github.com/Pratham31/Pratham31/blob/master/Header.gif" width="100%" align="center"></img>
