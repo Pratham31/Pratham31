@@ -8,7 +8,7 @@
 
 I am an Open Source Contributor, AR/VR Dev, Amazon Alexa Dev, and Full-stack Developer. I love experimenting with new technologies and building projects.
 
-- ☀️Learning and Developing Machine Learning based projects in Python.<br>
+- ☀️Learning and Developing MEAN Stack-based projects.<br>
 - ✍️ Writing tech blog posts over the Internet.<br>
 - ➿ Contributing to Open Source Projects.
 
