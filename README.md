@@ -13,15 +13,10 @@ I am an Open Source Contributor, AR/VR Dev, Amazon Alexa Dev, and Full-stack Dev
 - ➿ Contributing to Open Source Projects.
 
 ## Things that I execute in free time <img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/zap.gif" height="20px"> -  
-  - In mean time, I create visual and artistic UI/UX.&nbsp;<img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/Designer.gif" height="20vw">
+  - In the meantime, I create visual and artistic UI/UX.&nbsp;<img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/Designer.gif" height="20vw">
   - While Coding, Listening Music and developing useful code.&nbsp;<img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/headbang.gif" height="25vw">
   - Just loved to Explore new Tech Stacks.<img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/Developer.gif" height="20vw"> 
   - Always Willing to help (**Altruistic**).<img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/wave.gif" height="20vw">  
-
-
-## My GitHub Stats - <a href="https://github.com/Pratham31">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pratham31&show_icons=true&include_all_commits=true&theme=radical&count_private=true">
-</a>
 
 
 ## My Portfolio and Work -
