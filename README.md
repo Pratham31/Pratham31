@@ -21,7 +21,7 @@ I am an Open Source Contributor, AR/VR Dev, Amazon Alexa Dev, and Full-stack Dev
 
 ## My Portfolio and Work -
 ### 1. [Personal Web](https://pratham31.github.io/Pratham/) 👦 </br>
-### 3. [Blog](https://prathamtalks.blogspot.com/) 💭
+### 2. [Blog](https://prathamtalks.blogspot.com/) 💭
 
 ## Social Hangouts <img src="https://github.com/Pratham31/Pratham31/blob/master/Assets/Handshake.gif" height="35px">-
 
